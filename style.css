@@ -1,0 +1,74 @@
+body {
+    padding:0px;
+    margin:0px;
+    background-color:rgb(80, 129, 133);
+}
+
+h1{
+    font-style: inherit;
+    font-family: monospace;
+    color:whitesmoke;
+    margin-top:20px;
+    margin-left:30%;
+}
+
+p{
+    font-style: inherit;
+    font-family: monospace;
+    color:whitesmoke;
+    font-size:15px;
+    margin-top: 5%;
+    width: 60%;
+    text-align: justify;
+    position: relative;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+
+}
+
+label{
+    font-style: inherit;
+    font-family: monospace;
+    color:whitesmoke;
+    font-size:15px;
+    
+}
+table {
+    position: relative;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+tr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+button{
+    font-style: inherit;
+    font-family: monospace;
+    color:whitesmoke;
+    font-size:15px;
+    background-color:rgb(66, 158, 233);
+    border-color: rgb(12, 145, 145);
+    position: relative;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+    
+}
+
+#resultado{
+    font-style: inherit;
+    font-family: monospace;
+    color:whitesmoke;
+    font-size:15px;
+    text-align: justify;
+    position: relative;
+    left: 45%;
+    margin-right: -50%;
+}
+
